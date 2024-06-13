@@ -1,0 +1,11 @@
+h1 {
+	margin-left: 300px;
+}
+
+h1:hover {
+	color: blue;
+}
+
+h2:hover {
+	color: green;
+}
